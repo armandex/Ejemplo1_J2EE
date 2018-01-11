@@ -8,6 +8,6 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Hello Armando con el arquetipo j2ee14!</h1>
+        <h1>Hello Armando desde GitHubDesktop con el arquetipo j2ee14!</h1>
     </body>
 </html>
